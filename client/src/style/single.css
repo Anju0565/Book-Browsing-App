@@ -1,0 +1,12 @@
+.singlePage{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+}
+.details{
+    width: 60%;
+}
+.title{
+    font-weight: bold;
+    margin-bottom: 2%;
+}

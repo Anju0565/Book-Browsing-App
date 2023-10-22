@@ -1,0 +1,56 @@
+.loginForm{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    color: black;
+    border-Radius: 5px;
+    background-color: white;
+    display: flex;
+    flex-Direction: column;
+    align-Items: 'flex-start', 
+}
+.buttonStyle{
+    background-color: teal;
+    color: whitesmoke;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.formLabel{
+    margin-bottom: 8px;
+}
+.formInput{
+    width: 90%;
+    padding: 10px;
+    margin-Bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+.signin{
+    height: 350px;
+    width: 500px;
+    background-color: teal;
+    color: whitesmoke;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-Radius: 5px;
+    display: flex;
+    flex-Direction: column;
+    align-Items: 'flex-start', 
+}
+.register{
+    height: 400px;
+    width: 530px;
+    background-color: teal;
+    color: whitesmoke;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-Radius: 5px;
+    display: flex;
+    flex-Direction: column;
+    align-Items: 'flex-start',
+}

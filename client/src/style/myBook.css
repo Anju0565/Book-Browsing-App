@@ -1,0 +1,24 @@
+.myBook{
+    width: 70%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 10px;
+    padding: 10px;
+    margin-left: 6%;
+}
+.myBookStyle{
+    height: 320px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fff;
+}
+.myBooks{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.form{
+    width: 30%;
+}

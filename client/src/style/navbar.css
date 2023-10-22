@@ -1,0 +1,28 @@
+.navbar{
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 4%;
+    background-color: teal;
+    color: whitesmoke;
+}
+.navLink{
+    width: 40%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 23px;
+}
+.nav{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.searchbar{
+    height: 40px;
+}
+.logBtn{
+    height: 30px;
+    border-radius: 1px;
+}

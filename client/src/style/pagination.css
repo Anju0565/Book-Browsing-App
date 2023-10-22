@@ -1,0 +1,12 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center,
+}
+.pageStyle{
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
